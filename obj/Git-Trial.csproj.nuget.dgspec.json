@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pradeep Singh\\source\\repos\\Git-Trial\\Git-Trial.csproj": {}
+    "C:\\Users\\Administrator\\Source\\Repos\\LearnGit\\Git-Trial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pradeep Singh\\source\\repos\\Git-Trial\\Git-Trial.csproj": {
+    "C:\\Users\\Administrator\\Source\\Repos\\LearnGit\\Git-Trial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pradeep Singh\\source\\repos\\Git-Trial\\Git-Trial.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\LearnGit\\Git-Trial.csproj",
         "projectName": "Git-Trial",
-        "projectPath": "C:\\Users\\Pradeep Singh\\source\\repos\\Git-Trial\\Git-Trial.csproj",
-        "packagesPath": "C:\\Users\\Pradeep Singh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pradeep Singh\\source\\repos\\Git-Trial\\obj\\",
+        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\LearnGit\\Git-Trial.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\LearnGit\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Pradeep Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,13 +34,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -55,20 +45,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }

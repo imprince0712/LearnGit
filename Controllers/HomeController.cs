@@ -22,6 +22,11 @@ public class HomeController : Controller
     {
         return View();
     }
+    public IActionResult MyFunction()
+    {
+        Console.WriteLine("Hi, this function has been created by Devendra");
+        return Content("Message logged to console.");
+    }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
